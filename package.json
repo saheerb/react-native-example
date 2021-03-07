@@ -1,0 +1,33 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@projektpro/react-native-responsive-sketch-canvas": "^1.1.1",
+    "@react-native-community/masked-view": "^0.1.7",
+    "@shawn.lim/react-native-sketch-canvas": "shawnlim-bluescape/react-native-sketch-canvas",
+    "expo": "^40.0.1",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "^0.63.4",
+    "react-native-canvas": "^0.1.37",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.4.0",
+    "react-native-signature-canvas": "^1.9.0",
+    "react-native-signature-panel": "^1.0.13",
+    "react-native-web": "~0.11.7",
+    "react-navigation": "^4.3.7",
+    "react-navigation-stack": "^2.3.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "babel-preset-expo": "~8.1.0"
+  },
+  "private": true
+}
